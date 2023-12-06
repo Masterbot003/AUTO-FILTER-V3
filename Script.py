@@ -18,8 +18,6 @@ class script(object):
 • υѕєя ι∂ :</b> <code>1297128957</code>
 <b>• ιηѕтαgяαм :</b> <b><a href=https://instagram.com/anu_efx_offical?igshid=OGQ5ZDc2ODk2ZA==>ℓιηк</a></b>
    
-    SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ  :@ARAKAL_THERAVAD_MOVIES_02_bot<a href=>ARAKAL THERAVAD MOVIES</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/ARAKAL_THERAVAD_MOVIES>ARAKAL THERAVAD MOVIES</a></b>"""
 
