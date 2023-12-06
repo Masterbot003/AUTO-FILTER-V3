@@ -228,6 +228,3 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
  Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
  Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
 
-CON_TXT = """<b><u>ᴄᴏᴜɴᴛʀʏ ɪɴғᴏ</b></u>
-<b>Tʜɪs ᴍᴏᴅᴜʟᴇ ɪs ᴛᴏ ғɪɴᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴄᴏᴜɴᴛʀɪᴇs</b>
- /country [𝖼𝗈𝗎𝗇𝗍𝗋𝗒 𝗇𝖺𝗆𝖾] 
