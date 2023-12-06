@@ -217,7 +217,7 @@ Fʀᴇᴇ Dɪꜱᴋ: {}"""
    
     FORCE_SUB_TEXT = "Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ Aɢᴀɪɴ"
    
-    WELCOM_TEXT = """Hᴇʏ {user} 💞
+    WELCOM_TEXT = """Hᴇʏ {user} 
 
 Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
