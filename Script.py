@@ -1,11 +1,11 @@
 class script(object):  
     START_TXT = """<b>𝐻𝑒𝑙𝑙𝑜 👋 {user}.
 
-I'ᴍ {bot}Yᴏᴜ Cᴀɴ Cᴀʟʟ Mᴇ Aꜱ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ ᴠ3 🫶.
+I'ᴍ {bot}Yᴏᴜ Cᴀɴ Cᴀʟʟ Mᴇ Aꜱ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ ᴠ3 🫶
 
-Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ @ARAKAL_THERAVAD_MOVIES..!! 💫.
+Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ @ARAKAL_THERAVAD_MOVIES..!! 💫
 
-📌 Sᴜᴘᴘᴏʀᴛ : @OTT_ARAKAL_THERAVAD_MOVIESS.
+📌 Sᴜᴘᴘᴏʀᴛ : @OTT_ARAKAL_THERAVAD_MOVIESS
 
 🍂 Oᴡɴᴇʀ : @ARAKAL_THERAVAD_MOVIES_02_bot</b>"""
     
